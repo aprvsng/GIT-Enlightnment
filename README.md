@@ -1,4 +1,4 @@
-# GIT CheatSheet
+# Git CheatSheet
 
 ## setup
 1. set a name that is identifiable for credit when receivew history
